@@ -1,0 +1,29 @@
+.alert-alert{
+  @extend .alert-danger;
+}
+
+.alert-notice {
+  @extend .alert-success;
+}
+
+.course-reg:hover{
+  border-radius: 30px;
+  border-color: #EFEFEF;
+  transition-duration: 500ms;
+}
+
+.nav-item {
+  border: solid 1px #FFFFFF;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.nav-item:hover{
+  border-radius: 30px;
+  transition-duration: 500ms;
+  background-color: brown;
+}
+
+@import "/*";
+@import "bootstrap";
+@import "tether";

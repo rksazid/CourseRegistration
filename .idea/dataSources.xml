@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails CourseRegistration: development" uuid="c687d2b0-7d5d-4fbd-9be7-0b125da422a9">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/CourseRegistration_development</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails CourseRegistration: production" uuid="a41680ae-9842-400e-b362-2bd627a61379">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/CourseRegistration_production</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails CourseRegistration: test" uuid="1f015716-7856-45e1-80dd-a706154870b1">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/CourseRegistration_test</jdbc-url>
+    </data-source>
+  </component>
+</project>
