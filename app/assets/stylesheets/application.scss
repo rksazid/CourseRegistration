@@ -24,6 +24,51 @@
   background-color: brown;
 }
 
+#login{
+  border: solid 1px #222222;
+  width: 130px;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
+  background-color: brown;
+  color: #EFEFEF;
+  padding: 2px;
+}
+
+#edituser{
+  border: solid 1px #222222;
+  min-width: 160px;
+  max-width: 200px;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
+  background-color: brown;
+  color: #EFEFEF;
+  padding: 2px;
+}
+
+#forgotpass{
+  border: solid 1px #222222;
+  width: 300px;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
+  background-color: brown;
+  color: #EFEFEF;
+  padding: 2px;
+}
+
+#welcomemessage{
+  border: solid 1px #222222;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
+  background-color: brown;
+  color: #EFEFEF;
+  padding: 2px;
+}
+
+.form-inputs{
+  max-width: 40%;
+  width: 330px;
+}
+
 @import "/*";
 @import "bootstrap";
 @import "tether";
